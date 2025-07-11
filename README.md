@@ -45,9 +45,9 @@ This Power BI project analyzes shipping performance and customer feedback across
 
 *report pages screenshots:*
 ### Overview Page
-![Overview Page](Dashboard overview.PNG)
+![Overview Page](Customer Feedback.PNG)
  ### Products Analysis
-![product analysis](Product Analysis.PNG)
+![product analysis](Customer Feedback.PNG)
  ### Shipping Performance
 ![Shipping Page](Shipping performance.PNG)
 ### Customer Feedback
